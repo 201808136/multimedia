@@ -35,11 +35,13 @@ input[type=text] {
   font-family: 'Sacramento', cursive;
   font-size: 32px;
   color: red;
+  line-height: 80%;
   text-align: center;
 }
 
 input[type=text]#ftitle {
   border: none;
+  border-bottom: 2px solid red;
   font-family: 'Sacramento', cursive;
   font-size: 52px;
   color: red;
@@ -55,6 +57,7 @@ input[type=text]#firstnamerep {
 
 input[type=text]#secondnamerep {
   border: none;
+  border-bottom: 2px red dotted;
   font-family: 'Sacramento', cursive;
   font-size: 32px;
   color: red;
