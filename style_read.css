@@ -70,15 +70,15 @@ body{
   padding-left: 250px;
   margin-bottom: 200px;
 }
-/*
+
 em{
-  font-style: normal;
+  font-style: normal;/*
   border: none;
   font-family: 'Sacramento', cursive;
   font-size: 32px;
   color: red;
-  text-align: center;
-}*/
+  text-align: center;*/
+}
 
 p{
   width: 700px;
