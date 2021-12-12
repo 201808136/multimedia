@@ -1,0 +1,31 @@
+/* General */
+*{
+  background-color: red;
+  overflow: hidden;
+  }
+  
+
+.grid-container {
+margin-top:-130px;
+display: grid;
+grid-template-columns: auto;
+grid-gap: 40px;
+
+padding: 300px 0;
+}
+
+.grid-container > div {
+padding: 20px 250px;
+font-size: 30px;
+color:white;
+font-family: 'Source Code Pro', monospace;
+}
+
+button {
+background-color: white;
+font-family: 'Source Code Pro', monospace;
+border: none;
+color: red;
+text-decoration: none;
+font-size: 20px;
+}
